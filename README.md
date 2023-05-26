@@ -1,3 +1,7 @@
+# My React Portfolio
+
+Still in the process of development. I plan on adding more pages and CSS for all pages. I also plan on adding all my best projects. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
